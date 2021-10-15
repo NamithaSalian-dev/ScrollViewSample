@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  ScrollViewSample
+//  ScrollFromScratch
 //
-//  Created by namitha on 15/10/21.
+//  Created by namitha on 26/09/21.
 //  Copyright © 2021 Namitha J. All rights reserved.
 //
 
